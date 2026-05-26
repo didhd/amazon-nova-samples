@@ -1,0 +1,571 @@
+{
+  "image_path": "samples/page_001_portrait_grid.png",
+  "page_title": "Class of '94 \u2014 Junior Portraits",
+  "page_category": "portraits",
+  "page_summary": "Junior class individual portraits with names",
+  "photos": [
+    {
+      "bbox": [
+        38,
+        138,
+        222,
+        318
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        227,
+        138,
+        411,
+        318
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        415,
+        138,
+        599,
+        318
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        604,
+        138,
+        788,
+        318
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        793,
+        138,
+        977,
+        318
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        38,
+        350,
+        222,
+        530
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        227,
+        350,
+        411,
+        530
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        415,
+        350,
+        599,
+        530
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        604,
+        350,
+        788,
+        530
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        793,
+        350,
+        977,
+        530
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        38,
+        562,
+        222,
+        742
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        227,
+        562,
+        411,
+        742
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        415,
+        562,
+        599,
+        742
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        604,
+        562,
+        788,
+        742
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        793,
+        562,
+        977,
+        742
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        38,
+        774,
+        222,
+        954
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        227,
+        774,
+        411,
+        954
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        415,
+        774,
+        599,
+        954
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        604,
+        774,
+        788,
+        954
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    },
+    {
+      "bbox": [
+        793,
+        774,
+        977,
+        954
+      ],
+      "type": "portrait",
+      "category": "portraits",
+      "summary": "individual portrait"
+    }
+  ],
+  "names": [
+    {
+      "text": "Mira Solberg",
+      "bbox": [
+        67,
+        324,
+        175,
+        338
+      ]
+    },
+    {
+      "text": "Tomas Orellana",
+      "bbox": [
+        253,
+        324,
+        385,
+        337
+      ]
+    },
+    {
+      "text": "Henley Brookes",
+      "bbox": [
+        441,
+        324,
+        571,
+        339
+      ]
+    },
+    {
+      "text": "Reyna Castillo",
+      "bbox": [
+        631,
+        324,
+        750,
+        339
+      ]
+    },
+    {
+      "text": "Lior Avani",
+      "bbox": [
+        837,
+        325,
+        928,
+        338
+      ]
+    },
+    {
+      "text": "Kasper Iwasaki",
+      "bbox": [
+        64,
+        536,
+        193,
+        550
+      ]
+    },
+    {
+      "text": "Nadira Quinn",
+      "bbox": [
+        256,
+        536,
+        372,
+        551
+      ]
+    },
+    {
+      "text": "Bevan Holcombe",
+      "bbox": [
+        437,
+        536,
+        574,
+        550
+      ]
+    },
+    {
+      "text": "Sable Damaris",
+      "bbox": [
+        635,
+        536,
+        754,
+        550
+      ]
+    },
+    {
+      "text": "Orin Valewood",
+      "bbox": [
+        819,
+        536,
+        943,
+        550
+      ]
+    },
+    {
+      "text": "Talia Mercer",
+      "bbox": [
+        71,
+        745,
+        178,
+        759
+      ]
+    },
+    {
+      "text": "Juno Ellery",
+      "bbox": [
+        266,
+        745,
+        362,
+        760
+      ]
+    },
+    {
+      "text": "Dax Corbin",
+      "bbox": [
+        456,
+        745,
+        553,
+        759
+      ]
+    },
+    {
+      "text": "Selah Norwood",
+      "bbox": [
+        630,
+        745,
+        754,
+        759
+      ]
+    },
+    {
+      "text": "Perrin Devereux",
+      "bbox": [
+        814,
+        745,
+        944,
+        759
+      ]
+    },
+    {
+      "text": "Imani Keswick",
+      "bbox": [
+        67,
+        945,
+        186,
+        959
+      ]
+    },
+    {
+      "text": "Rowan Bellamy",
+      "bbox": [
+        253,
+        945,
+        384,
+        959
+      ]
+    },
+    {
+      "text": "Zeke Marlowe",
+      "bbox": [
+        440,
+        945,
+        558,
+        959
+      ]
+    },
+    {
+      "text": "Anika Voss",
+      "bbox": [
+        646,
+        945,
+        738,
+        959
+      ]
+    },
+    {
+      "text": "Cairo Winslet",
+      "bbox": [
+        825,
+        945,
+        937,
+        959
+      ]
+    }
+  ],
+  "associations": [
+    {
+      "name": "Mira Solberg",
+      "face_idx": 0,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~67-175 centers under portrait index 0 bbox x~38-222, row 1 left column."
+    },
+    {
+      "name": "Tomas Orellana",
+      "face_idx": 1,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~253-385 centers under portrait index 1 bbox x~227-411, row 1 second column."
+    },
+    {
+      "name": "Henley Brookes",
+      "face_idx": 2,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~441-571 centers under portrait index 2 bbox x~415-599, row 1 middle column."
+    },
+    {
+      "name": "Reyna Castillo",
+      "face_idx": 3,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~631-750 centers under portrait index 3 bbox x~604-788, row 1 fourth column."
+    },
+    {
+      "name": "Lior Avani",
+      "face_idx": 4,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~837-928 centers under portrait index 4 bbox x~793-977, row 1 right column."
+    },
+    {
+      "name": "Kasper Iwasaki",
+      "face_idx": 5,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~64-193 centers under portrait index 5 bbox x~38-222, row 2 left column."
+    },
+    {
+      "name": "Nadira Quinn",
+      "face_idx": 6,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~256-372 centers under portrait index 6 bbox x~227-411, row 2 second column."
+    },
+    {
+      "name": "Bevan Holcombe",
+      "face_idx": 7,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~437-574 centers under portrait index 7 bbox x~415-599, row 2 middle column."
+    },
+    {
+      "name": "Sable Damaris",
+      "face_idx": 8,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~635-754 centers under portrait index 8 bbox x~604-788, row 2 fourth column."
+    },
+    {
+      "name": "Orin Valewood",
+      "face_idx": 9,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~819-943 centers under portrait index 9 bbox x~793-977, row 2 right column."
+    },
+    {
+      "name": "Talia Mercer",
+      "face_idx": 10,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~71-178 centers under portrait index 10 bbox x~38-222, row 3 left column."
+    },
+    {
+      "name": "Juno Ellery",
+      "face_idx": 11,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~266-362 centers under portrait index 11 bbox x~227-411, row 3 second column."
+    },
+    {
+      "name": "Dax Corbin",
+      "face_idx": 12,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~456-553 centers under portrait index 12 bbox x~415-599, row 3 middle column."
+    },
+    {
+      "name": "Selah Norwood",
+      "face_idx": 13,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~630-754 centers under portrait index 13 bbox x~604-788, row 3 fourth column."
+    },
+    {
+      "name": "Perrin Devereux",
+      "face_idx": 14,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~814-944 centers under portrait index 14 bbox x~793-977, row 3 right column."
+    },
+    {
+      "name": "Imani Keswick",
+      "face_idx": 15,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~67-186 centers under portrait index 15 bbox x~38-222, row 4 left column."
+    },
+    {
+      "name": "Rowan Bellamy",
+      "face_idx": 16,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~253-384 centers under portrait index 16 bbox x~227-411, row 4 second column."
+    },
+    {
+      "name": "Zeke Marlowe",
+      "face_idx": 17,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~440-558 centers under portrait index 17 bbox x~415-599, row 4 middle column."
+    },
+    {
+      "name": "Anika Voss",
+      "face_idx": 18,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~646-738 centers under portrait index 18 bbox x~604-788, row 4 fourth column."
+    },
+    {
+      "name": "Cairo Winslet",
+      "face_idx": 19,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Name bbox x~825-937 centers under portrait index 19 bbox x~793-977, row 4 right column."
+    }
+  ],
+  "unmatched_names": [],
+  "unmatched_face_indices": [],
+  "usage": {
+    "nova": {
+      "inputTokens": 3137,
+      "outputTokens": 1354,
+      "totalTokens": 4491,
+      "cacheReadInputTokenCount": 0,
+      "cacheWriteInputTokenCount": 0
+    },
+    "claude": {
+      "inputTokens": 3688,
+      "outputTokens": 2715,
+      "totalTokens": 6403,
+      "cacheReadInputTokens": 0,
+      "cacheWriteInputTokens": 0
+    }
+  },
+  "thinking_chars": 2145
+}

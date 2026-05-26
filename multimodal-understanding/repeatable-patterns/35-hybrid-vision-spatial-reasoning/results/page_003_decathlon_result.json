@@ -1,0 +1,170 @@
+{
+  "image_path": "samples/page_003_decathlon.png",
+  "page_title": "Academics",
+  "page_category": "academics",
+  "page_summary": "Westbrook High Academic Decathlon1994 State Finalists",
+  "photos": [
+    {
+      "bbox": [
+        65,
+        108,
+        956,
+        641
+      ],
+      "type": "group_photo",
+      "category": "academics",
+      "summary": "Academic Decathlon 1994 State Finalists"
+    }
+  ],
+  "names": [
+    {
+      "text": "Mira Solberg",
+      "bbox": [
+        283,
+        655,
+        413,
+        673
+      ]
+    },
+    {
+      "text": "Tomas Orellana",
+      "bbox": [
+        420,
+        655,
+        576,
+        673
+      ]
+    },
+    {
+      "text": "Henley Brookes",
+      "bbox": [
+        583,
+        655,
+        729,
+        674
+      ]
+    },
+    {
+      "text": "Lior Avani",
+      "bbox": [
+        736,
+        655,
+        843,
+        674
+      ]
+    },
+    {
+      "text": "Reyna Castillo",
+      "bbox": [
+        266,
+        680,
+        400,
+        699
+      ]
+    },
+    {
+      "text": "Kasper Iwasaki",
+      "bbox": [
+        409,
+        680,
+        552,
+        699
+      ]
+    },
+    {
+      "text": "Nadira Quinn",
+      "bbox": [
+        560,
+        680,
+        688,
+        699
+      ]
+    },
+    {
+      "text": "Bevan Holcombe",
+      "bbox": [
+        695,
+        680,
+        850,
+        699
+      ]
+    }
+  ],
+  "associations": [
+    {
+      "name": "Mira Solberg",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed first in the back row caption for the group photo at index 0."
+    },
+    {
+      "name": "Tomas Orellana",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed second in the back row caption for the group photo at index 0."
+    },
+    {
+      "name": "Henley Brookes",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed third in the back row caption for the group photo at index 0."
+    },
+    {
+      "name": "Lior Avani",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed fourth in the back row caption for the group photo at index 0."
+    },
+    {
+      "name": "Reyna Castillo",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed first in the front row caption for the group photo at index 0."
+    },
+    {
+      "name": "Kasper Iwasaki",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed second in the front row caption for the group photo at index 0."
+    },
+    {
+      "name": "Nadira Quinn",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed third in the front row caption for the group photo at index 0."
+    },
+    {
+      "name": "Bevan Holcombe",
+      "face_idx": 0,
+      "confidence": 0.95,
+      "match_type": "group",
+      "reasoning": "Listed fourth in the front row caption for the group photo at index 0."
+    }
+  ],
+  "unmatched_names": [],
+  "unmatched_face_indices": [],
+  "usage": {
+    "nova": {
+      "inputTokens": 3137,
+      "outputTokens": 346,
+      "totalTokens": 3483,
+      "cacheReadInputTokenCount": 0,
+      "cacheWriteInputTokenCount": 0
+    },
+    "claude": {
+      "inputTokens": 2300,
+      "outputTokens": 725,
+      "totalTokens": 3025,
+      "cacheReadInputTokens": 0,
+      "cacheWriteInputTokens": 0
+    }
+  },
+  "thinking_chars": 279
+}

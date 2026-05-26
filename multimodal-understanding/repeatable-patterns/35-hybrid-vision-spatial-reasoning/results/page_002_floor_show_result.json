@@ -1,0 +1,168 @@
+{
+  "image_path": "samples/page_002_floor_show.png",
+  "page_title": "Floor Show \u201994",
+  "page_category": "dance",
+  "page_summary": "Annual talent showcase featuring dance, music, and drama performances.",
+  "photos": [
+    {
+      "bbox": [
+        45,
+        90,
+        615,
+        413
+      ],
+      "type": "group_photo",
+      "category": "dance",
+      "summary": "Group of participants in Floor Show \u201994"
+    },
+    {
+      "bbox": [
+        620,
+        90,
+        951,
+        330
+      ],
+      "type": "portrait",
+      "category": "dance",
+      "summary": "Solo ballerina performance"
+    },
+    {
+      "bbox": [
+        86,
+        421,
+        426,
+        666
+      ],
+      "type": "portrait",
+      "category": "music",
+      "summary": "Trumpet player at practice"
+    },
+    {
+      "bbox": [
+        505,
+        381,
+        944,
+        533
+      ],
+      "type": "candid",
+      "category": "theater",
+      "summary": "First-year participants present a scene"
+    },
+    {
+      "bbox": [
+        477,
+        576,
+        946,
+        742
+      ],
+      "type": "candid",
+      "category": "dance",
+      "summary": "Square-dance performance"
+    }
+  ],
+  "names": [
+    {
+      "text": "Mira Solberg",
+      "bbox": [
+        642,
+        350,
+        738,
+        362
+      ]
+    },
+    {
+      "text": "Henley Brookes",
+      "bbox": [
+        600,
+        537,
+        863,
+        550
+      ]
+    },
+    {
+      "text": "Lior Avani",
+      "bbox": [
+        642,
+        552,
+        726,
+        564
+      ]
+    },
+    {
+      "text": "Tomas Orellana",
+      "bbox": [
+        135,
+        688,
+        258,
+        700
+      ]
+    },
+    {
+      "text": "Reyna Castillo",
+      "bbox": [
+        584,
+        764,
+        690,
+        776
+      ]
+    }
+  ],
+  "associations": [
+    {
+      "name": "Mira Solberg",
+      "face_idx": 1,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Caption text at y\u2248356 appears directly beneath photo 1 (bbox y-bottom 330), the solo ballerina portrait."
+    },
+    {
+      "name": "Henley Brookes",
+      "face_idx": 3,
+      "confidence": 0.98,
+      "match_type": "group",
+      "reasoning": "Caption at y\u2248543 falls just below photo 3 (bbox y-bottom 533), the candid of two people presenting a scene; Henley Brookes is one of the two named participants."
+    },
+    {
+      "name": "Lior Avani",
+      "face_idx": 3,
+      "confidence": 0.98,
+      "match_type": "group",
+      "reasoning": "Caption at y\u2248558 is on the same caption block as Henley Brookes, directly under photo 3; both names share the same candid scene photo."
+    },
+    {
+      "name": "Tomas Orellana",
+      "face_idx": 2,
+      "confidence": 0.99,
+      "match_type": "portrait",
+      "reasoning": "Caption at y\u2248694 sits directly beneath photo 2 (bbox y-bottom 666), the individual portrait of the trumpet player."
+    },
+    {
+      "name": "Reyna Castillo",
+      "face_idx": 4,
+      "confidence": 0.98,
+      "match_type": "group",
+      "reasoning": "Caption at y\u2248770 falls directly beneath photo 4 (bbox y-bottom 742), the square-dance candid."
+    }
+  ],
+  "unmatched_names": [],
+  "unmatched_face_indices": [
+    0
+  ],
+  "usage": {
+    "nova": {
+      "inputTokens": 3137,
+      "outputTokens": 493,
+      "totalTokens": 3630,
+      "cacheReadInputTokenCount": 0,
+      "cacheWriteInputTokenCount": 0
+    },
+    "claude": {
+      "inputTokens": 2357,
+      "outputTokens": 1003,
+      "totalTokens": 3360,
+      "cacheReadInputTokens": 0,
+      "cacheWriteInputTokens": 0
+    }
+  },
+  "thinking_chars": 932
+}
